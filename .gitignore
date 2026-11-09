@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Passwords and secrets
+.env
+.env.*
+!.env.example
+secrets.*
+*.pem
+*.key
+
+# Database backups - do not upload
+/database/
+
+# ZIP archives
+*.zip
+
+# Temporary files
+*.log
+.DS_Store

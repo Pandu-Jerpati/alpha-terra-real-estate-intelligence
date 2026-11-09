@@ -1,0 +1,10 @@
+listing_id,locality,bhk,carpet_area,asking_price,dist_tech_hub_km,dev_score,rera_valid,price_psf,cluster_raw,market_category,loc_score,val_score,dev_norm,property_intelligence_score
+HYD-MBD-001,Madhapur,3,1650,18500000,1.2,4.5,True,11212.12,0,Mid-Range / Core Residential,84.0,44.8269006823489,90.0,73.89
+HYD-MBD-002,Madhapur,2,1100,12000000,1.8,4.2,True,10909.09,0,Mid-Range / Core Residential,76.0,46.31806419881393,84.00000000000001,70.81
+HYD-KHJ-001,Khajaguda,3,1800,17500000,3.1,4.0,True,9722.22,0,Mid-Range / Core Residential,58.666666666666664,52.15846694041325,80.0,66.86
+HYD-KHJ-002,Khajaguda,2,1250,11000000,3.4,3.8,True,8800.0,0,Mid-Range / Core Residential,54.666666666666664,56.696568178423924,76.0,66.44
+HYD-NNK-001,Nanakramguda,3,2200,28000000,0.8,4.8,True,12727.27,2,High-Rise / Premium Tech Hub,89.33333333333333,50.308067567412806,96.0,78.61
+HYD-NNK-002,Nanakramguda,4,3100,42000000,1.1,4.9,True,13548.39,2,High-Rise / Premium Tech Hub,85.33333333333333,47.10211377221195,98.00000000000001,76.69
+HYD-NRS-001,Narsingi,2,1150,7800000,6.5,3.7,True,6782.61,1,Budget Friendly / Value Hub,13.33333333333333,49.96894547385814,74.0,51.29
+HYD-NRS-002,Narsingi,3,1550,10500000,6.0,3.9,True,6774.19,1,Budget Friendly / Value Hub,19.999999999999996,50.03105452614186,78.0,54.11
+HYD-MBD-003,Madhapur,4,2800,34000000,1.0,4.6,True,12142.86,2,High-Rise / Premium Tech Hub,86.66666666666667,52.58981866037525,92.0,77.81
